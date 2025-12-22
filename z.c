@@ -8,7 +8,7 @@ int main()
     int d = a * c;
     printf("%d\n", c);
     printf("%d\n, d);
-    printf("Hello world");
+    printf("Hello");
     return 0;
 }
 
